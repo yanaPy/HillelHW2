@@ -1,5 +1,6 @@
 public class DepositCalculator {
     public static void main(String[] args) {
+        String text="";
 
         String textText="a";
         
