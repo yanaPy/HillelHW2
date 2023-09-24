@@ -6,6 +6,7 @@ public class DepositCalculator {
         String textTextW="a";
 
         String textW="";
+        String lastLast="";
 
 
 
