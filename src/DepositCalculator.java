@@ -5,6 +5,10 @@ public class DepositCalculator {
         String textText="a";
         String textTextW="a";
 
+        String textW="";
+
+
+
         int amountOfCashDepositUah = Integer.valueOf(args[0]);
         double percentagePerAnnum = Double.valueOf(args[1]);
         int durationOfDeposit = Integer.valueOf(args[2]);
