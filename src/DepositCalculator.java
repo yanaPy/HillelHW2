@@ -3,6 +3,7 @@ public class DepositCalculator {
         String text="";
 
         String textW="";
+        String textLast="";
 
 
 
